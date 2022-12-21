@@ -139,7 +139,7 @@ rrg12=rr2g12-rr1g12;
 
 %kinec vidtvorennia
 
-%******************napruzennia*********************************
+%******************stress*********************************
 toc=1;
 %naprr
 nap11=(lam.*rrg./rr1n)/ko;
